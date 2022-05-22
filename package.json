@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.4.1",
+    "@openzeppelin/contracts": "^4.6.0",
+    "defender-relay-client": "^1.21.3",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.7",
+    "solc": "^0.8.14-fixed"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
